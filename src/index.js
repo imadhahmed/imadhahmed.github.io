@@ -1,5 +1,6 @@
 import React from "react";
-import ReactDOM from "react-router-dom";
+import ReactDOM from "react-dom";  // Correct import
+import { BrowserRouter as Router } from "react-router-dom";  // Correct Router import
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
