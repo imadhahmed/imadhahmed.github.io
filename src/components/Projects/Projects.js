@@ -24,7 +24,7 @@ function Projects() {
               title="Portfolio"
               description="I created my portfolio using react js,javascript and bootstrap."
               ghLink="https://github.com/imadhahmed/portfolio.git"
-              demoLink="https://imadhahmed.github.io/portfolio/"
+              demoLink="https://imadhahmed.github.io/"
             />
           </Col>
           <Col md={4} className="project-card">
